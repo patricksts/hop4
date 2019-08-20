@@ -1,0 +1,7 @@
+{
+    "RESULT_TOPIC": "translations",
+    "RESULT_BUCKET": "vision-translation-bucket",
+    "TRANSLATE_TOPIC": "to-translate",
+    "TRANSLATE": true,
+    "TO_LANG": ["en", "fr", "es", "ja", "ru"]
+  }
